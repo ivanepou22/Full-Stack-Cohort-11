@@ -1,0 +1,8 @@
+Assignment.
+- Clone a repository
+- Create a branch
+- create a pull request.
+
+====================
+- Write an article on why you persued Software Develop.
+- Write an article on how to clone a repository.
