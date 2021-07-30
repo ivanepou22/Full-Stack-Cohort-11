@@ -1,2 +1,7 @@
 //sorting arra
-const name = 'Ivan Epou';
+const lname = 'Ivan';
+let fname = 'Epou';
+if (lname == 'ivan'){
+    let fullname  = lname + fname;
+    alert(fullname)
+}
